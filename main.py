@@ -1,4 +1,3 @@
-from PIL.ImImagePlugin import split
 from pyrogram.errors import MessageEmpty, UserBlocked, UserIsBlocked
 from files.config import app
 from pyrogram import filters
